@@ -1,0 +1,52 @@
+[33mcommit 162127b00bd6a865143c8da18c7444a4b3517806[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 23:15:24 2017 +0200
+
+    Temp
+
+[33mcommit cbe80c4edea7aed45a3a1bdbe294bb75c68493c7[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 23:12:23 2017 +0200
+
+    New commit
+
+[33mcommit 07c01bbee9d60b57b8b02d39c2417a77f7512c00[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 16:03:46 2017 +0200
+
+    Branch change
+
+[33mcommit bab141fa6f28c38f0a08fb5b5dbd3b84a2f67fab[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 15:55:12 2017 +0200
+
+    new file
+    
+    test
+
+[33mcommit ef492dd28d1a3f179da5fcb533607e1e69c0c2ec[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 15:47:38 2017 +0200
+
+    Test local
+
+[33mcommit ee0b50cfcc0f2060424d567a1c160b7fbce36069[m
+Merge: f357d18 84c608f
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 15:39:16 2017 +0200
+
+    Merge pull request #1 from Domagoj-Rade/edits
+    
+    Update README.md
+
+[33mcommit 84c608f9418349fac89ea960f2211b5974278083[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 15:36:22 2017 +0200
+
+    Update README.md
+
+[33mcommit f357d18e2d137da2988035304b4cd26b2bbce645[m
+Author: Domagoj-Rade <dxr3954@g.rit.edu>
+Date:   Wed Jun 7 15:34:05 2017 +0200
+
+    Initial commit
